@@ -2,6 +2,10 @@
 
 Description: Docker mysql-database restore and backup tool
 
+## How to make it work
+
+  chmod u+x ./exportDockerMysql.sh
+
 ## How to restore mysql-data to container
 
  ./exportDockerMysql.sh -p root -u root -n root -c <containerid> -a import
