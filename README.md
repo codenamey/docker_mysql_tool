@@ -1,4 +1,4 @@
-# docker_mysql_tool
+# Docker mysql restore and backup tool 
 
 Description: Docker mysql-database restore and backup tool
 
